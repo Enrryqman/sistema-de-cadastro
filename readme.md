@@ -5,5 +5,5 @@
 para rolar esse projeto na sua máquina, por favor digite:
 
 ```
-Aluno ENRRYQMAN install react
+node app.js
 ```
